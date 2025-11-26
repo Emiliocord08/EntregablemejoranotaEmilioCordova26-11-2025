@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   if (homeBtn) {
     homeBtn.addEventListener('click', () => {
-      window.location.href = 'index EFCR.html';
+      window.location.href = 'index.html';
     });
   }
 });
